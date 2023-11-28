@@ -1,4 +1,4 @@
-module fyne.io/fyne/v2
+module github.com/SinanEkm/fyne
 
 go 1.17
 
